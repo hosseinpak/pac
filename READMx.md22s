@@ -26,6 +26,7 @@ red
 
 .egHtVD{-webkit-text-decoration:inherit;text-decoration:inherit;margin:0;padding:0;line-height:var(--c-line-height-body);font-weight:var(--c-font-weight-400);display:initial;font-size:var(--c-font-size-50);color:var(--c-color-text-secondary);font-weight:inherit;}/*!sc*/
 .gtauHf{display:inline-block;font-weight:var(--c-font-weight-500);font-size:var(--c-font-size-50);direction:auto;}/*!sc*/
+
 .jTsesI{vertical-align:middle;}/*!sc*/
 .gVajsk{display:inline-block;}/*!sc*/
 .gpUUUU{-webkit-text-decoration:inherit;text-decoration:inherit;margin:0;padding:0;line-height:var(--c-line-height-body);font-weight:var(--c-font-weight-400);display:initial;font-size:var(--c-font-size-50);color:var(--c-color-text-hyperlink);font-weights:inherit;}/*!sc*/
